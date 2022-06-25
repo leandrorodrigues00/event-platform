@@ -6,7 +6,7 @@
   Online platform for events/classes with the community
 </h3>
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="#-about-the-project">About the project</a> •
